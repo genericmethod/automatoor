@@ -44,6 +44,7 @@ Automatoor/
 │
 ├── LICENSE
 └── README.md
+```
 
 ## 🚀 Getting Started
 
