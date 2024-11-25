@@ -26,58 +26,79 @@ Whether you're just starting or you're an automation wizard, Automatoor offers t
 ## 🎯 Purpose
 This repository serves two main purposes:
 
-Showcasing Skills: A portfolio of advanced automation workflows that I’ve designed to optimize various use cases.
-Helping Others: Empowering you to streamline your tasks with shared workflows, step-by-step guides, and resources.
+- **Showcasing Skills**: A portfolio of advanced automation workflows that I’ve designed to optimize various use cases.
+- **Helping Others**: Empowering you to streamline your tasks with shared workflows, step-by-step guides, and resources.
+
+## 📂 Repository Structure
+
+```plaintext
+Automatoor/
+│
+├── make-blueprints/
+│   ├── blueprint-example1.json
+│   ├── blueprint-example2.json
+│
+├── zapier-exports/
+│   ├── zap-example1.zap
+│   ├── zap-example2.zap
+│
+├── LICENSE
+└── README.md
 
 ## 🚀 Getting Started
 
-1. Clone This Repository
-bash
-Copy code
-git clone https://github.com/yourusername/automatoor.git
-cd automatoor
-2. Explore Blueprints and Exports
+1. **Clone This Repository**
+
+   ```bash
+   git clone https://github.com/yourusername/automatoor.git
+   cd automatoor
+
+2. **Explore Blueprints and Exports**
+
 Navigate to the make-blueprints/ folder for Make.com workflows.
 Check out zapier-exports/ for Zapier-ready automations.
-3. Import into Your Platform
-For Make.com: Follow this guide to import blueprints.
-For Zapier: Use Zapier's import feature.
+
+3. **Import into Your Platform**
+- For Make.com: Follow this guide to import blueprints.
+- For Zapier: Use Zapier's import feature.
 
 ## 🛠️ Features
 
-🌐 Multi-Platform: Automations for Make.com and Zapier.
-📂 Organized Repository: Clear folder structure for quick navigation.
-🔍 Real-Life Use Cases: Automations for email notifications, CRMs, data syncing, and more.
-📖 Documentation: Step-by-step guides included for each blueprint.
+- 🌐 Multi-Platform: Automations for Make.com and Zapier.
+- 📂 Organized Repository: Clear folder structure for quick navigation.
+- 🔍 Real-Life Use Cases: Automations for email notifications, CRMs, data syncing, and more.
+- 📖 Documentation: Step-by-step guides included for each blueprint.
 
 ## 🌟 Highlights
 
-Here are a few standout automations:
+Here are some must-try automations:
 
-Name	Platform	Description
-Customer Feedback Sync	Zapier	Sync feedback from Google Forms to Slack.
-Airbnb Referral System	Make.com	Automate referral codes with Sheets + Twilio.
-Social Media Scheduler	Make.com	Schedule posts to multiple platforms.
+| Name                     | Platform   | Description                                      | Status     |
+|--------------------------|------------|--------------------------------------------------|------------|
+| Airbnb Referral System   | Make.com   | Sends referral codes with Google Sheets + Twilio | ✅ Complete |
+| Social Media Scheduler   | Make.com   | Automates scheduling posts across platforms      | 🛠️ Beta     |
+| Customer Feedback Sync   | Zapier     | Logs feedback from Google Forms into Slack       | ✅ Complete |
 
 ## 🤝 How to Contribute
 We welcome contributions! Here's how you can help:
 
-Fork this repository.
-Create a new branch for your feature (git checkout -b feature/your-feature).
-Commit your changes (git commit -m 'Add your feature').
-Push to the branch (git push origin feature/your-feature).
-Submit a pull request.
+1. Fork this repository.
+2. Create a new branch for your feature (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -m 'Add your feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Submit a pull request.
 
 ## 📜 License
-This repository is licensed under the MIT License. See the LICENSE file for details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📬 Get in Touch
 
 Feel free to connect with me if you have any questions or suggestions:
 
-GitHub Issues: Open an Issue
-Twitter: @ristofar
-Email: questions@automatoor.co
+- **GitHub Issues**: Open an [Issue](https://github.com/your-repo/issues)
+- **Twitter**: [@ristofar](https://twitter.com/ristofar)
+- **Email**: [questions@automatoor.co](mailto:questions@automatoor.co)
 
-🚀 Let's Automate Together!
+
+## 🚀 Let's Automate Together!
 Dive in, explore, and let’s revolutionize workflows one automation at a time! 🌟
